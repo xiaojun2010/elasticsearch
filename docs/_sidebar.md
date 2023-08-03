@@ -1,4 +1,5 @@
 - elasticsearch
-  - [es-字段类型-flattened](flattened/es-字段类型-flattened.md)
+  - [第01节：用大白话告诉你什么是Elasticsearch](01/第01节：用大白话告诉你什么是Elasticsearch.md)
+  - [第02节：Elasticsearch的功能、适用场景以及特点介绍](02/第02节：Elasticsearch的功能、适用场景以及特点介绍.md)
   - [es-字段类型-flattened](flattened/es-字段类型-flattened.md)
   - [es-字段类型-flattened](flattened/es-字段类型-flattened.md)
